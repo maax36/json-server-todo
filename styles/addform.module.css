@@ -1,0 +1,17 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    border: 1px #a8a8a8 solid;
+    padding: 20px;
+    background-color: azure;
+
+}
+
+.form input {
+    width: 100%;
+}
+
+.form button {
+    margin: 20px auto;
+    cursor: pointer;
+} 

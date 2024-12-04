@@ -1,0 +1,21 @@
+.userCard {
+    position: relative;
+    color: rgb(19, 19, 19);
+    margin: 20px 0;
+}
+
+.userCard div {
+    margin: 10px 0;
+}
+
+.userCard span {
+    color: blueviolet;
+}
+
+.delete {
+    position: absolute;
+    color: red;
+    top: -45px;
+    right: 0;
+    cursor: pointer;
+}
